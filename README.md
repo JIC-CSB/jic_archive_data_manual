@@ -18,7 +18,7 @@ Create a directory for your project.
 mkdir my_project
 ```
 
-Create a ``README.md`` file in the top level.
+Create a ``README.yml`` file in the top level.
 Create a directory named ``archive`` in your project directory.
 
 ```
@@ -50,6 +50,6 @@ tar -zcvf my_project.tar.gz my_project
 On the archive system extract the README and manifest files.
 
 ```
-tar -zxvf my_project.tar.gz my_project/README.md
+tar -zxvf my_project.tar.gz my_project/README.yml
 tar -zxvf my_project.tar.gz my_project/manifest.json
 ```
