@@ -42,7 +42,9 @@ tar -zcvf my_project.tar.gz my_project
 ```
 
 
-## Rsync the zipped data to archive storage
+## Copy the data on the sync server
+
+Log into the sync server and copy the data to your archive.
 
 
 ## Verify the transfer
