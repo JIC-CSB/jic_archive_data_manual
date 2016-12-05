@@ -1,0 +1,14 @@
+---
+project_name: Yeast growth
+owners:
+  - name: Nuno Leitao
+    email: Nuno.Leitao@jic.ac.uk
+    username: dearaujj
+  - name: Matthew Hartley
+    email: Matthew.Hartley@jic.ac.uk
+    username: hartleym
+archive_date: 2016-12-05
+links:
+  - https://github.com/JIC-Image-Analysis/yeast_growth
+budget_codes:
+  - CT261H08H
